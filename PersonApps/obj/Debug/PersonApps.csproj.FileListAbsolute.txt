@@ -1,0 +1,12 @@
+c:\users\pc21\documents\visual studio 2013\Projects\Game\PersonApps\PersonApps\bin\Debug\PersonApps.exe.config
+c:\users\pc21\documents\visual studio 2013\Projects\Game\PersonApps\PersonApps\obj\Debug\PersonApps.csprojResolveAssemblyReference.cache
+c:\users\pc21\documents\visual studio 2013\Projects\Game\PersonApps\PersonApps\obj\Debug\PersonApps.Properties.Resources.resources
+c:\users\pc21\documents\visual studio 2013\Projects\Game\PersonApps\PersonApps\obj\Debug\PersonApps.csproj.GenerateResource.Cache
+c:\users\pc21\documents\visual studio 2013\Projects\Game\PersonApps\PersonApps\bin\Debug\PersonApps.exe
+c:\users\pc21\documents\visual studio 2013\Projects\Game\PersonApps\PersonApps\bin\Debug\PersonApps.pdb
+c:\users\pc21\documents\visual studio 2013\Projects\Game\PersonApps\PersonApps\obj\Debug\PersonApps.exe
+c:\users\pc21\documents\visual studio 2013\Projects\Game\PersonApps\PersonApps\obj\Debug\PersonApps.pdb
+C:\Users\PC21\documents\visual studio 2013\Projects\Game\PersonApps\PersonApps\obj\Debug\PersonApps.PersonForm.resources
+C:\Users\Mhr\Desktop\project to githib\PersonApps\PersonApps\bin\Debug\PersonApps.exe.config
+C:\Users\Mhr\Desktop\project to githib\PersonApps\PersonApps\obj\Debug\PersonApps.exe
+C:\Users\Mhr\Desktop\project to githib\PersonApps\PersonApps\obj\Debug\PersonApps.pdb
